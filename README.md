@@ -1,33 +1,64 @@
 <h1 align="center">Hi 👋, I'm SoulRaven</h1>
 <h3 align="center">A passionate developer from Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soulraven&label=Profile%20views&color=0e75b6&style=flat" alt="soulraven" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soulraven" alt="soulraven" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/soulraventnt" target="blank"><img src="https://img.shields.io/twitter/follow/soulraventnt?logo=twitter&style=for-the-badge" alt="soulraventnt" /></a> </p>
-
-- 💬 Ask me about **electronics, victron energy ecosystem, HomeAssistent**
-
-- 📫 How to reach me **constantin.zaharia@sgsolar.ro**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/soulraven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soulraven" height="30" width="40" /></a>
-<a href="https://twitter.com/soulraventnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soulraventnt" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18470253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18470253" height="30" width="40" /></a>
-<a href="https://fb.com/soulraventnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soulraventnt" height="30" width="40" /></a>
-<a href="https://instagram.com/soulraventnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soulraventnt" height="30" width="40" /></a>
+    <img src="https://komarev.com/ghpvc/?username=soulraven&label=Profile%20views&color=0e75b6&style=flat" alt="soulraven" />
+    <a href="https://twitter.com/soulraventnt" target="blank"><img src="https://img.shields.io/twitter/follow/soulraventnt" alt="soulraventnt" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+```python
+class SoulRaven:
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SoulRaven"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoulRaven" /></a><a href="https://ko-fi.com/SoulRaven"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SoulRaven" /></a></p><br><br>
+    def __init__(self):
+        self.username = 'soulraven'
+        self.name = 'Zaharia Constantin'
+        self.position = 'Python Software Developer'
+        self.web = 'https://www.sgsolar.ro'
+        self.web_1 = 'https://www.progeek.ro'
+        self.social = {
+            'twitter': 'https://twitter.com/soulraventnt',
+            'facebook': 'https://fb.com/soulraventnt',
+            'instagram': 'https://instagram.com/soulraventnt',
+            'stackoverflow': 'https://stackoverflow.com/users/18470253',
+            'codepen': 'https://codepen.io/soulraven'
+        }
+        self.code = {
+            'programming_languages': ['javascript', 'python', 'bash', 'nodejs'],
+            'frontend_development': ['css3', 'html5', 'bootstrap', 'sass', 'babel', 'webpack'],
+            'backend_development': ['node', 'nginx', 'flashMQ'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'bash'],
+            'framework': ['django'], 
+            'data_visualization': ['grafana'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'software': ['pycharm', 'vscode', 'gimp', 'inkscape', 'LibreCAD', 'postman'],
+            'automation': ['nodered', 'homeassistant'],
+        }
+        self.os = ['Pop!_OS']
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.hardware = ['esp8266', 'esp32', 'arduino', 'raspberryPI', 'bananaPI']
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulraven&show_icons=true&locale=en&layout=compact" alt="soulraven" /></p>
+    def __str__(self):
+        return f'{self.name} | {self.position}'
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soulraven&show_icons=true&locale=en" alt="soulraven" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulraven&" alt="soulraven" /></p>
+if __name__ == '__main__':
+    me = SoulRaven()
+    print(me)
+```
+
+- 💬 Ask me about **electronics, VictronEnergy ecosystem, HomeAssistent**
+- 📫 How to reach me **constantin.zaharia@sgsolar.ro**
+<hr>
+<h3 align="center">Support:</h3>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/SoulRaven"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoulRaven" /></a>&nbsp;
+    <a href="https://ko-fi.com/SoulRaven"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SoulRaven" /></a>
+</p>
+<hr>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulraven&show_icons=true&locale=en&layout=compact" alt="soulraven" />&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulraven&show_icons=true&locale=en" alt="soulraven" />&nbsp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulraven&" alt="soulraven" />
+</p>
+
