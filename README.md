@@ -46,7 +46,8 @@ if __name__ == '__main__':
     me = SoulRaven()
     print(me)
 ```
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulraven&show_icons=true&locale=en&layout=compact" alt="soulraven" />&nbsp;
