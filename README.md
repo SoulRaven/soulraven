@@ -116,13 +116,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 25/03/2024 06:33:20 UTC
 <!--END_SECTION:waka-->
-<hr>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulraven&show_icons=true&locale=en&layout=compact" alt="soulraven" />&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulraven&show_icons=true&locale=en" alt="soulraven" />&nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulraven&" alt="soulraven" />
-</p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=soulraven&label=Profile%20views&color=0e75b6&style=flat" alt="soulraven" />
-</p>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<hr>
