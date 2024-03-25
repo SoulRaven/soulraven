@@ -49,8 +49,6 @@ if __name__ == '__main__':
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -89,8 +87,6 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Bucharest
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -114,7 +110,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2024 06:33:20 UTC
+ Last Updated on 25/03/2024 06:49:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
