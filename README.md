@@ -47,70 +47,34 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 210.3 kB Used in GitHub's Storage 
+> 📦 199.0 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8 commits           ███████████░░░░░░░░░░░░░░   44.44 % 
-🌆 Daytime                5 commits           ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-🌃 Evening                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌙 Night                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Thursday                 6 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Friday                   6 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Saturday                 2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 25/03/2024 06:49:12 UTC
+ Last Updated on 26/03/2024 00:27:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
