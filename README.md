@@ -88,18 +88,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-GitIgnore file           4 mins              ███████████████████████░░   92.90 % 
-EditorConfig             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sgs.nemo-actions         4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +113,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2024 00:28:53 UTC
+ Last Updated on 24/04/2024 00:35:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
