@@ -47,7 +47,7 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.3%20thousand%20lines%20of%20code-blue)
 
@@ -88,17 +88,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              ███████████████░░░░░░░░░░   61.66 % 
-Markdown                 2 mins              ██████████░░░░░░░░░░░░░░░   38.34 % 
+Markdown                 2 mins              ████████████████████████░   96.55 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-PyCharm                  6 mins              █████████████████████████   100.00 % 
+PyCharm                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sgszenity                6 mins              █████████████████████████   100.00 % 
+sgszenity                2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024 00:32:47 UTC
+ Last Updated on 07/08/2024 00:33:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
