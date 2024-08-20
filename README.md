@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 **🐱 My GitHub Data** 
 
-> 📦 191.2 kB Used in GitHub's Storage 
+> 📦 191.3 kB Used in GitHub's Storage 
  > 
 > 🏆 90 Contributions in the Year 2024
  > 
@@ -88,16 +88,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sgszenity                0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 00:34:05 UTC
+ Last Updated on 20/08/2024 00:32:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
