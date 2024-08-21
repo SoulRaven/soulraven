@@ -55,8 +55,6 @@ if __name__ == '__main__':
 
 > 📦 191.3 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -113,7 +111,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2024 00:32:56 UTC
+ Last Updated on 21/08/2024 00:32:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
