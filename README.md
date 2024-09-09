@@ -47,13 +47,13 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%209%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,43 +61,6 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                40 commits          █████████░░░░░░░░░░░░░░░░   36.70 % 
-🌆 Daytime                36 commits          ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   40 commits          █████████░░░░░░░░░░░░░░░░   36.70 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sgszenity                2 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +74,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 00:38:36 UTC
+ Last Updated on 09/09/2024 00:37:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
