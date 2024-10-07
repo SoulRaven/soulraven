@@ -55,8 +55,6 @@ if __name__ == '__main__':
 
 > 📦 191.3 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -88,16 +86,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               37 mins             ████████████████░░░░░░░░░   62.81 % 
+SourceMap                13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sgs.appjs                59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +115,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2024 00:40:36 UTC
+ Last Updated on 07/10/2024 00:38:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
