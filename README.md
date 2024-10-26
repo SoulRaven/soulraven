@@ -47,7 +47,7 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168.8%20thousand%20lines%20of%20code-blue)
 
@@ -55,14 +55,51 @@ if __name__ == '__main__':
 
 > 📦 191.3 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                45 commits          ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌆 Daytime                36 commits          ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   40 commits          █████████░░░░░░░░░░░░░░░░   35.09 % 
+Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 hr 36 mins        █████████████████████████   98.36 % 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+PyCharm                  1 hr 38 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+sgs.appjs                1 hr 38 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -76,7 +113,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2024 00:38:15 UTC
+ Last Updated on 26/10/2024 00:36:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
