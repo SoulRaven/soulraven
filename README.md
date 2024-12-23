@@ -88,18 +88,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SCSS                     0 secs              ███████████████░░░░░░░░░░   60.31 % 
-JavaScript               0 secs              ████████░░░░░░░░░░░░░░░░░   31.67 % 
-EditorConfig             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sgs.appjs                0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +113,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2024 00:41:35 UTC
+ Last Updated on 23/12/2024 00:39:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
