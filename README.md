@@ -47,8 +47,6 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -63,43 +61,6 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                46 commits          ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌆 Daytime                38 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌃 Evening                32 commits          ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   42 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
-Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +74,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 00:38:41 UTC
+ Last Updated on 10/01/2025 00:39:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
