@@ -47,15 +47,11 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2015%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.4 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,57 +59,20 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                39 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌆 Daytime                37 commits          ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                36 commits          ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   42 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
-Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████████░░░░░░░░░░░░   51.85 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   14 repos            ████████████░░░░░░░░░░░░░   48.28 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 27/03/2025 00:41:07 UTC
+ Last Updated on 28/03/2025 00:40:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
