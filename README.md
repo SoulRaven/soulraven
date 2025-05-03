@@ -47,15 +47,13 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 32 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,43 +61,6 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                41 commits          ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌆 Daytime                47 commits          █████████░░░░░░░░░░░░░░░░   36.72 % 
-🌃 Evening                38 commits          ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   42 commits          ████████░░░░░░░░░░░░░░░░░   32.81 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Thursday                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +74,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 00:43:23 UTC
+ Last Updated on 03/05/2025 00:41:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
