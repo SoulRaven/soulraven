@@ -47,11 +47,15 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.0%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2015%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,6 +63,43 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                45 commits          ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌆 Daytime                47 commits          █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌃 Evening                38 commits          ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   42 commits          ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -72,7 +113,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 00:44:17 UTC
+ Last Updated on 23/05/2025 00:44:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
