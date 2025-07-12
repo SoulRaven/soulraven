@@ -55,8 +55,6 @@ if __name__ == '__main__':
 
 > 📦 191.4 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -113,7 +111,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 00:46:43 UTC
+ Last Updated on 12/07/2025 00:47:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
