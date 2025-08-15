@@ -88,16 +88,22 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 hrs 50 mins       █████████████████░░░░░░░░   69.66 % 
+C++                      2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 5 hrs 58 mins       ██████████████████░░░░░░░   71.35 % 
+VS Code                  2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sgs.sgsolar.merchantpro  5 hrs 58 mins       ██████████████████░░░░░░░   71.35 % 
+esp8266-spotify-display  2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +119,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 00:45:43 UTC
+ Last Updated on 15/08/2025 05:07:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
