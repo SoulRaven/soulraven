@@ -55,6 +55,8 @@ if __name__ == '__main__':
 
 > 📦 191.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -86,20 +88,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     31 mins             ████████████████████████░   97.78 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  31 mins             ████████████████████████░   97.78 % 
-PhpStorm                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sg.webshop-ansibile      31 mins             ████████████████████████░   97.78 % 
-sgs.sgsolar.merchantpro  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +113,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 00:43:11 UTC
+ Last Updated on 27/08/2025 00:42:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
