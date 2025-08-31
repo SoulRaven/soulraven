@@ -47,13 +47,13 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.4 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,6 +61,43 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29 commits          █████████░░░░░░░░░░░░░░░░   35.80 % 
+🌆 Daytime                26 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                23 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Tuesday                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Wednesday                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 26 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +111,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:39:33 UTC
+ Last Updated on 31/08/2025 00:45:27 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
