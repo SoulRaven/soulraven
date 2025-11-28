@@ -55,11 +55,11 @@ if __name__ == '__main__':
 
 > 📦 191.4 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2025
+> 🏆 55 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -103,17 +103,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-SCSS                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+SCSS                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 27/11/2025 00:03:17 UTC
+ Last Updated on 28/11/2025 00:03:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
