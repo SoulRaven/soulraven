@@ -47,8 +47,6 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2037%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.70%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -63,43 +61,6 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                23 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Daytime                24 commits          ████████░░░░░░░░░░░░░░░░░   32.88 % 
-🌃 Evening                23 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Tuesday                  14 commits          █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Wednesday                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Thursday                 26 commits          █████████░░░░░░░░░░░░░░░░   35.62 % 
-Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +74,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:03:35 UTC
+ Last Updated on 03/01/2026 00:03:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
