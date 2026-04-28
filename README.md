@@ -47,7 +47,7 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -88,16 +88,21 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        51 mins             █████████░░░░░░░░░░░░░░░░   35.34 % 
+YAML                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Other                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Makefile                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+netbootIPXE              1 hr 48 mins        ██████████████████░░░░░░░   73.81 % 
+ipxe                     38 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +118,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2026 00:11:49 UTC
+ Last Updated on 28/04/2026 00:15:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
