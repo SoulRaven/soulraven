@@ -47,11 +47,13 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.77%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.5 kB Used in GitHub's Storage 
+> 📦 216.4 kB Used in GitHub's Storage 
  > 
 > 🏆 42 Contributions in the Year 2026
  > 
@@ -111,7 +113,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 00:19:01 UTC
+ Last Updated on 25/05/2026 00:20:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
