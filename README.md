@@ -61,43 +61,6 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                27 commits          █████████░░░░░░░░░░░░░░░░   36.49 % 
-🌆 Daytime                22 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-🌃 Evening                23 commits          ████████░░░░░░░░░░░░░░░░░   31.08 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Thursday                 16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Friday                   32 commits          ███████████░░░░░░░░░░░░░░   43.24 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +74,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 00:17:09 UTC
+ Last Updated on 25/07/2026 00:19:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
