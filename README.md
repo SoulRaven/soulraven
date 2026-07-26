@@ -47,6 +47,8 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,6 +63,43 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌆 Daytime                22 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                23 commits          ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Thursday                 16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Friday                   32 commits          ███████████░░░░░░░░░░░░░░   43.24 % 
+Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +113,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 00:19:39 UTC
+ Last Updated on 26/07/2026 00:19:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
