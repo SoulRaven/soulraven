@@ -47,6 +47,10 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%208%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,6 +65,55 @@ if __name__ == '__main__':
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌆 Daytime                22 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                23 commits          ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Thursday                 16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Friday                   32 commits          ███████████░░░░░░░░░░░░░░   43.24 % 
+Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Makefile                 48 mins             ███████████░░░░░░░░░░░░░░   43.81 % 
+YAML                     30 mins             ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+.env file                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+
+🔥 Editors: 
+PyCharm                  1 hr 51 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+nodexa                   1 hr 30 mins        ████████████████████░░░░░   81.55 % 
+nodexa-discovery         15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+nodexa-ui                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+
+💻 Operating System: 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +127,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:57:40 UTC
+ Last Updated on 08/08/2026 00:40:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
