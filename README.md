@@ -90,19 +90,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     21 mins             ███████████░░░░░░░░░░░░░░   43.87 % 
-Caddyfile                17 mins             █████████░░░░░░░░░░░░░░░░   34.93 % 
-.env file                7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nodexa                   49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,7 +121,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 00:30:11 UTC
+ Last Updated on 25/08/2026 00:29:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
