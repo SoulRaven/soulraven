@@ -90,29 +90,45 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     6 mins              █████████░░░░░░░░░░░░░░░░   36.38 % 
-TOML                     6 mins              █████████░░░░░░░░░░░░░░░░   34.86 % 
-HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Makefile                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Caddyfile                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Text                     18 mins             █████████░░░░░░░░░░░░░░░░   34.33 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-PyCharm                  18 mins             █████████████████████████   100.00 % 
+Claude Code              33 mins             ████████████████░░░░░░░░░   64.01 % 
+PyCharm                  18 mins             █████████░░░░░░░░░░░░░░░░   35.99 % 
 
 🐱‍💻 Projects: 
-alpine-errorPages        16 mins             ██████████████████████░░░   87.10 % 
-nodexa                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-nodexa-discovery         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+soulraven                33 mins             ████████████████░░░░░░░░░   64.01 % 
+alpine-errorPages        16 mins             ████████░░░░░░░░░░░░░░░░░   31.35 % 
+nodexa                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+nodexa-discovery         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (64.01%)
+
+✍️ 38 lines written by AI, 17 lines written by hand (69.09% AI-written)
+
+🔤 573,787 Input Tokens, 67,864 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 69.09% of written lines came from AI
+📚 Verbose Prompter — average 3,921 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 25.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +144,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 01:29:02 UTC
+ Last Updated on 08/09/2026 01:38:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
