@@ -90,8 +90,8 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   40.49 % 
-Makefile                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Python                   1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
+Makefile                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.26 % 
 TOML                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
@@ -126,7 +126,7 @@ Jinja                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 02:11:52 UTC
+ Last Updated on 22/10/2026 02:06:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
