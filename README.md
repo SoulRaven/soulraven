@@ -47,17 +47,13 @@ if __name__ == '__main__':
     print(me)
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%208%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 216.5 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +86,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       █████████████████████░░░░   83.41 % 
-Docker                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-PHP                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   1 hr 30 mins        █████████████████████████   99.81 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 15 mins      █████████████████████████   100.00 % 
+PyCharm                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PyFaultProxy             11 hrs 10 mins      █████████████████████████   99.33 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+PyFaultProxy             1 hr 29 mins        █████████████████████████   98.82 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Linux                    11 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,17 +110,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 01/11/2026 02:48:38 UTC
+ Last Updated on 24/11/2026 07:32:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
