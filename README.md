@@ -90,19 +90,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 30 mins        █████████████████████████   99.81 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   1 hr 45 mins        █████████████████████████   99.84 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 30 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PyFaultProxy             1 hr 29 mins        █████████████████████████   98.82 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+PyFaultProxy             1 hr 44 mins        █████████████████████████   98.90 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,17 +114,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Jinja                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 
 
 
 
- Last Updated on 27/11/2026 05:33:32 UTC
+ Last Updated on 28/11/2026 05:10:14 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
